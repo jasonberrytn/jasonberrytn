@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasonberrytn
-- 👀 I’m interested in becoming a blockchain engineer
+- 👀 I’m interested in becoming a Full Stack Developer
 - 🌱 I’m currently learning Entry-Level Technology in CourseCareers and CompTIA+
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me linked.com/in/jasonberrytn
