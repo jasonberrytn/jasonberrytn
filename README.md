@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasonberrytn
+- 👋 Hi, I’m Jason!
 - 👀 I’m interested in becoming a Full Stack Developer
 - 🌱 I’m currently learning Entry-Level Technology in CourseCareers and CompTIA+
 - 💞️ I’m looking to collaborate on coding
