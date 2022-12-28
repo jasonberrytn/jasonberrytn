@@ -1,7 +1,7 @@
 <h1>About Me</h1>
 
 - 👋 Hi, I’m Jason!
-- 👀 I’m interested in becoming a Full Stack Developer
+- 👀 I’m interested in becoming a Help Desk Support Specalist
 - 🌱 I’m currently learning Entry-Level Technology in CourseCareers and CompTIA+
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me linked.com/in/jasonberrytn
