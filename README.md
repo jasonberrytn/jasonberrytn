@@ -4,7 +4,7 @@
 - 👀 I’m a Digital Marketing Associate
 - 🌱 I’m currently learning Digital Marketing
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me linked.com/in/jasonberrytn
+- 📫 How to reach me linkedin.com/in/jasonberrytn
 
 <!---
 jasonberrytn/jasonberrytn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
